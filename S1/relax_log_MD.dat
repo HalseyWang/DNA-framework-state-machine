@@ -1,0 +1,1478 @@
+INFO: seeding the RNG with -1018232057
+INFO: Initializing backend 
+INFO: Simulation type: MD
+INFO: CUDA backend precision: mixed
+INFO: The generator will try to take into account bonded interactions by choosing distances between bonded neighbours no larger than 2.000000
+INFO: Converting temperature from Kelvin (300.000000 K) to simulation units (0.100000)
+INFO: Running Debye-Huckel at salt concentration =  0.6
+INFO: Using different widths for major and minor grooves
+INFO: Converting temperature from Kelvin (300.000000 K) to simulation units (0.100000)
+INFO: CUDA device not specified
+INFO: The generator will try to take into account bonded interactions by choosing distances between bonded neighbours no larger than 2.000000
+INFO: Converting temperature from Kelvin (300.000000 K) to simulation units (0.100000)
+INFO: Using edge-based approach...
+INFO: Converting temperature from Kelvin (300.000000 K) to simulation units (0.100000)
+INFO: pid: 37944
+INFO: Using a maximum backbone force of 1000  (the corresponding mbf_xmax is 0.249002) and a far value of 0.04
+DEBUG: Debye-Huckel parameters: Q=0.054300, lambda_0=0.361646, lambda=0.466882, r_high=1.400647, cutoff=3.063768
+DEBUG: Debye-Huckel parameters: debye_huckel_RC=2.100970e+00, debye_huckel_B=3.935413e-03
+INFO: The Debye length at this temperature and salt concentration is 0.466882
+INFO: Parsing Force file basepair_trap
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=459, PBC=1) on particle 0
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=458, PBC=1) on particle 1
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=457, PBC=1) on particle 2
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=456, PBC=1) on particle 3
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=455, PBC=1) on particle 4
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=454, PBC=1) on particle 5
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=453, PBC=1) on particle 6
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=452, PBC=1) on particle 7
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=451, PBC=1) on particle 8
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=450, PBC=1) on particle 9
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=449, PBC=1) on particle 10
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=505, PBC=1) on particle 11
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=504, PBC=1) on particle 12
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=503, PBC=1) on particle 13
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=502, PBC=1) on particle 14
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=501, PBC=1) on particle 15
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=500, PBC=1) on particle 16
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=499, PBC=1) on particle 17
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=486, PBC=1) on particle 25
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=485, PBC=1) on particle 26
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=484, PBC=1) on particle 27
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=483, PBC=1) on particle 28
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=482, PBC=1) on particle 29
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=481, PBC=1) on particle 30
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=480, PBC=1) on particle 31
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=545, PBC=1) on particle 32
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=544, PBC=1) on particle 33
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=543, PBC=1) on particle 34
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=542, PBC=1) on particle 35
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=541, PBC=1) on particle 36
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=540, PBC=1) on particle 37
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=539, PBC=1) on particle 38
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=67, PBC=1) on particle 46
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=66, PBC=1) on particle 47
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=65, PBC=1) on particle 48
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=64, PBC=1) on particle 49
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=63, PBC=1) on particle 50
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=62, PBC=1) on particle 51
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=61, PBC=1) on particle 52
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=60, PBC=1) on particle 53
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=59, PBC=1) on particle 54
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=58, PBC=1) on particle 55
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=57, PBC=1) on particle 56
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=56, PBC=1) on particle 57
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=55, PBC=1) on particle 58
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=54, PBC=1) on particle 59
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=53, PBC=1) on particle 60
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=52, PBC=1) on particle 61
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=51, PBC=1) on particle 62
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=50, PBC=1) on particle 63
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=49, PBC=1) on particle 64
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=48, PBC=1) on particle 65
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=47, PBC=1) on particle 66
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=46, PBC=1) on particle 67
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=588, PBC=1) on particle 68
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=587, PBC=1) on particle 69
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=586, PBC=1) on particle 70
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=585, PBC=1) on particle 71
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=584, PBC=1) on particle 72
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=583, PBC=1) on particle 73
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=582, PBC=1) on particle 74
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=581, PBC=1) on particle 75
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=580, PBC=1) on particle 76
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=579, PBC=1) on particle 77
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=578, PBC=1) on particle 78
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=559, PBC=1) on particle 79
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=558, PBC=1) on particle 80
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=557, PBC=1) on particle 81
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=556, PBC=1) on particle 82
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=555, PBC=1) on particle 83
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=554, PBC=1) on particle 84
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=553, PBC=1) on particle 85
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=552, PBC=1) on particle 86
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=551, PBC=1) on particle 87
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=550, PBC=1) on particle 88
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=549, PBC=1) on particle 89
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=548, PBC=1) on particle 90
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=547, PBC=1) on particle 91
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=546, PBC=1) on particle 92
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=479, PBC=1) on particle 93
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=478, PBC=1) on particle 94
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=477, PBC=1) on particle 95
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=476, PBC=1) on particle 96
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=475, PBC=1) on particle 97
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=474, PBC=1) on particle 98
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=473, PBC=1) on particle 99
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=519, PBC=1) on particle 100
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=518, PBC=1) on particle 101
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=517, PBC=1) on particle 102
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=516, PBC=1) on particle 103
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=515, PBC=1) on particle 104
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=514, PBC=1) on particle 105
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=513, PBC=1) on particle 106
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=512, PBC=1) on particle 107
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=511, PBC=1) on particle 108
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=510, PBC=1) on particle 109
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=509, PBC=1) on particle 110
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=508, PBC=1) on particle 111
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=507, PBC=1) on particle 112
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=506, PBC=1) on particle 113
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=448, PBC=1) on particle 114
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=447, PBC=1) on particle 115
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=446, PBC=1) on particle 116
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=445, PBC=1) on particle 117
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=444, PBC=1) on particle 118
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=443, PBC=1) on particle 119
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=442, PBC=1) on particle 120
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=441, PBC=1) on particle 121
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=440, PBC=1) on particle 122
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=439, PBC=1) on particle 123
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=438, PBC=1) on particle 124
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=199, PBC=1) on particle 131
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=197, PBC=1) on particle 132
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=196, PBC=1) on particle 133
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=195, PBC=1) on particle 134
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=194, PBC=1) on particle 135
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=193, PBC=1) on particle 136
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=192, PBC=1) on particle 137
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=191, PBC=1) on particle 138
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=190, PBC=1) on particle 139
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=189, PBC=1) on particle 140
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=188, PBC=1) on particle 141
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=188, PBC=1) on particle 142
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=526, PBC=1) on particle 148
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=526, PBC=1) on particle 149
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=525, PBC=1) on particle 150
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=524, PBC=1) on particle 151
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=523, PBC=1) on particle 152
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=522, PBC=1) on particle 153
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=521, PBC=1) on particle 154
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=520, PBC=1) on particle 155
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=472, PBC=1) on particle 156
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=471, PBC=1) on particle 157
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=470, PBC=1) on particle 158
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=469, PBC=1) on particle 159
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=468, PBC=1) on particle 160
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=467, PBC=1) on particle 161
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=466, PBC=1) on particle 162
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=623, PBC=1) on particle 163
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=622, PBC=1) on particle 164
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=621, PBC=1) on particle 165
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=620, PBC=1) on particle 166
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=619, PBC=1) on particle 167
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=618, PBC=1) on particle 168
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=617, PBC=1) on particle 169
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=566, PBC=1) on particle 170
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=565, PBC=1) on particle 171
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=564, PBC=1) on particle 172
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=563, PBC=1) on particle 173
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=562, PBC=1) on particle 174
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=561, PBC=1) on particle 175
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=560, PBC=1) on particle 176
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=577, PBC=1) on particle 177
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=576, PBC=1) on particle 178
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=575, PBC=1) on particle 179
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=574, PBC=1) on particle 180
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=573, PBC=1) on particle 181
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=572, PBC=1) on particle 182
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=571, PBC=1) on particle 183
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=570, PBC=1) on particle 184
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=569, PBC=1) on particle 185
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=568, PBC=1) on particle 186
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=567, PBC=1) on particle 187
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=142, PBC=1) on particle 188
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=140, PBC=1) on particle 189
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=139, PBC=1) on particle 190
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=138, PBC=1) on particle 191
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=137, PBC=1) on particle 192
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=136, PBC=1) on particle 193
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=135, PBC=1) on particle 194
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=134, PBC=1) on particle 195
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=133, PBC=1) on particle 196
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=132, PBC=1) on particle 197
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=131, PBC=1) on particle 198
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=131, PBC=1) on particle 199
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=274, PBC=1) on particle 205
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=273, PBC=1) on particle 206
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=272, PBC=1) on particle 207
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=271, PBC=1) on particle 208
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=270, PBC=1) on particle 209
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=269, PBC=1) on particle 210
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=268, PBC=1) on particle 211
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=267, PBC=1) on particle 212
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=266, PBC=1) on particle 213
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=265, PBC=1) on particle 214
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=264, PBC=1) on particle 215
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=263, PBC=1) on particle 216
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=263, PBC=1) on particle 217
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=616, PBC=1) on particle 224
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=615, PBC=1) on particle 225
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=614, PBC=1) on particle 226
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=613, PBC=1) on particle 227
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=612, PBC=1) on particle 228
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=611, PBC=1) on particle 229
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=610, PBC=1) on particle 230
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=697, PBC=1) on particle 231
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=696, PBC=1) on particle 232
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=695, PBC=1) on particle 233
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=694, PBC=1) on particle 234
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=693, PBC=1) on particle 235
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=692, PBC=1) on particle 236
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=691, PBC=1) on particle 237
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=691, PBC=1) on particle 238
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=678, PBC=1) on particle 245
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=677, PBC=1) on particle 246
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=676, PBC=1) on particle 247
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=675, PBC=1) on particle 248
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=674, PBC=1) on particle 249
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=673, PBC=1) on particle 250
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=672, PBC=1) on particle 251
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=639, PBC=1) on particle 252
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=638, PBC=1) on particle 253
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=637, PBC=1) on particle 254
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=636, PBC=1) on particle 255
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=635, PBC=1) on particle 256
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=634, PBC=1) on particle 257
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=633, PBC=1) on particle 258
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=632, PBC=1) on particle 259
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=631, PBC=1) on particle 260
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=630, PBC=1) on particle 261
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=629, PBC=1) on particle 262
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=217, PBC=1) on particle 263
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=215, PBC=1) on particle 264
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=214, PBC=1) on particle 265
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=213, PBC=1) on particle 266
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=212, PBC=1) on particle 267
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=211, PBC=1) on particle 268
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=210, PBC=1) on particle 269
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=209, PBC=1) on particle 270
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=208, PBC=1) on particle 271
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=207, PBC=1) on particle 272
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=206, PBC=1) on particle 273
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=205, PBC=1) on particle 274
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=650, PBC=1) on particle 281
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=649, PBC=1) on particle 282
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=648, PBC=1) on particle 283
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=647, PBC=1) on particle 284
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=646, PBC=1) on particle 285
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=645, PBC=1) on particle 286
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=644, PBC=1) on particle 287
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=643, PBC=1) on particle 288
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=642, PBC=1) on particle 289
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=641, PBC=1) on particle 290
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=640, PBC=1) on particle 291
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=671, PBC=1) on particle 292
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=670, PBC=1) on particle 293
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=669, PBC=1) on particle 294
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=668, PBC=1) on particle 295
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=667, PBC=1) on particle 296
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=666, PBC=1) on particle 297
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=665, PBC=1) on particle 298
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=664, PBC=1) on particle 299
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=663, PBC=1) on particle 300
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=662, PBC=1) on particle 301
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=661, PBC=1) on particle 302
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=660, PBC=1) on particle 303
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=659, PBC=1) on particle 304
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=658, PBC=1) on particle 305
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=704, PBC=1) on particle 306
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=703, PBC=1) on particle 307
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=702, PBC=1) on particle 308
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=701, PBC=1) on particle 309
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=700, PBC=1) on particle 310
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=699, PBC=1) on particle 311
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=698, PBC=1) on particle 312
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=609, PBC=1) on particle 313
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=608, PBC=1) on particle 314
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=607, PBC=1) on particle 315
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=606, PBC=1) on particle 316
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=605, PBC=1) on particle 317
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=604, PBC=1) on particle 318
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=603, PBC=1) on particle 319
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=602, PBC=1) on particle 320
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=601, PBC=1) on particle 321
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=600, PBC=1) on particle 322
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=599, PBC=1) on particle 323
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=598, PBC=1) on particle 324
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=597, PBC=1) on particle 325
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=596, PBC=1) on particle 326
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=723, PBC=1) on particle 327
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=722, PBC=1) on particle 328
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=721, PBC=1) on particle 329
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=720, PBC=1) on particle 330
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=719, PBC=1) on particle 331
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=718, PBC=1) on particle 332
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=717, PBC=1) on particle 333
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=716, PBC=1) on particle 334
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=715, PBC=1) on particle 335
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=714, PBC=1) on particle 336
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=713, PBC=1) on particle 337
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=712, PBC=1) on particle 338
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=712, PBC=1) on particle 339
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=736, PBC=1) on particle 345
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=734, PBC=1) on particle 346
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=733, PBC=1) on particle 347
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=732, PBC=1) on particle 348
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=731, PBC=1) on particle 349
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=730, PBC=1) on particle 350
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=729, PBC=1) on particle 351
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=728, PBC=1) on particle 352
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=727, PBC=1) on particle 353
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=726, PBC=1) on particle 354
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=725, PBC=1) on particle 355
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=724, PBC=1) on particle 356
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=595, PBC=1) on particle 357
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=594, PBC=1) on particle 358
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=593, PBC=1) on particle 359
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=592, PBC=1) on particle 360
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=591, PBC=1) on particle 361
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=590, PBC=1) on particle 362
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=589, PBC=1) on particle 363
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=538, PBC=1) on particle 364
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=537, PBC=1) on particle 365
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=536, PBC=1) on particle 366
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=535, PBC=1) on particle 367
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=534, PBC=1) on particle 368
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=533, PBC=1) on particle 369
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=532, PBC=1) on particle 370
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=711, PBC=1) on particle 371
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=710, PBC=1) on particle 372
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=709, PBC=1) on particle 373
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=708, PBC=1) on particle 374
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=707, PBC=1) on particle 375
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=706, PBC=1) on particle 376
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=705, PBC=1) on particle 377
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=657, PBC=1) on particle 378
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=656, PBC=1) on particle 379
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=655, PBC=1) on particle 380
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=654, PBC=1) on particle 381
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=653, PBC=1) on particle 382
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=652, PBC=1) on particle 383
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=651, PBC=1) on particle 384
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=413, PBC=1) on particle 392
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=412, PBC=1) on particle 393
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=411, PBC=1) on particle 394
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=410, PBC=1) on particle 395
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=409, PBC=1) on particle 396
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=408, PBC=1) on particle 397
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=407, PBC=1) on particle 398
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=406, PBC=1) on particle 399
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=405, PBC=1) on particle 400
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=404, PBC=1) on particle 401
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=403, PBC=1) on particle 402
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=402, PBC=1) on particle 403
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=401, PBC=1) on particle 404
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=400, PBC=1) on particle 405
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=399, PBC=1) on particle 406
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=398, PBC=1) on particle 407
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=397, PBC=1) on particle 408
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=396, PBC=1) on particle 409
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=395, PBC=1) on particle 410
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=394, PBC=1) on particle 411
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=393, PBC=1) on particle 412
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=392, PBC=1) on particle 413
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=498, PBC=1) on particle 414
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=497, PBC=1) on particle 415
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=496, PBC=1) on particle 416
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=495, PBC=1) on particle 417
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=494, PBC=1) on particle 418
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=493, PBC=1) on particle 419
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=492, PBC=1) on particle 420
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=491, PBC=1) on particle 421
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=490, PBC=1) on particle 422
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=489, PBC=1) on particle 423
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=488, PBC=1) on particle 424
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=487, PBC=1) on particle 425
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=690, PBC=1) on particle 426
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=689, PBC=1) on particle 427
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=688, PBC=1) on particle 428
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=687, PBC=1) on particle 429
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=686, PBC=1) on particle 430
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=685, PBC=1) on particle 431
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=684, PBC=1) on particle 432
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=683, PBC=1) on particle 433
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=682, PBC=1) on particle 434
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=681, PBC=1) on particle 435
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=680, PBC=1) on particle 436
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=679, PBC=1) on particle 437
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=124, PBC=1) on particle 438
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=123, PBC=1) on particle 439
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=122, PBC=1) on particle 440
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=121, PBC=1) on particle 441
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=120, PBC=1) on particle 442
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=119, PBC=1) on particle 443
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=118, PBC=1) on particle 444
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=117, PBC=1) on particle 445
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=116, PBC=1) on particle 446
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=115, PBC=1) on particle 447
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=114, PBC=1) on particle 448
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=10, PBC=1) on particle 449
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=9, PBC=1) on particle 450
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=8, PBC=1) on particle 451
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=7, PBC=1) on particle 452
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=6, PBC=1) on particle 453
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=5, PBC=1) on particle 454
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=4, PBC=1) on particle 455
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=3, PBC=1) on particle 456
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=2, PBC=1) on particle 457
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=1, PBC=1) on particle 458
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=0, PBC=1) on particle 459
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=162, PBC=1) on particle 466
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=161, PBC=1) on particle 467
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=160, PBC=1) on particle 468
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=159, PBC=1) on particle 469
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=158, PBC=1) on particle 470
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=157, PBC=1) on particle 471
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=156, PBC=1) on particle 472
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=99, PBC=1) on particle 473
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=98, PBC=1) on particle 474
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=97, PBC=1) on particle 475
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=96, PBC=1) on particle 476
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=95, PBC=1) on particle 477
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=94, PBC=1) on particle 478
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=93, PBC=1) on particle 479
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=31, PBC=1) on particle 480
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=30, PBC=1) on particle 481
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=29, PBC=1) on particle 482
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=28, PBC=1) on particle 483
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=27, PBC=1) on particle 484
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=26, PBC=1) on particle 485
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=25, PBC=1) on particle 486
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=425, PBC=1) on particle 487
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=424, PBC=1) on particle 488
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=423, PBC=1) on particle 489
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=422, PBC=1) on particle 490
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=421, PBC=1) on particle 491
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=420, PBC=1) on particle 492
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=419, PBC=1) on particle 493
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=418, PBC=1) on particle 494
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=417, PBC=1) on particle 495
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=416, PBC=1) on particle 496
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=415, PBC=1) on particle 497
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=414, PBC=1) on particle 498
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=17, PBC=1) on particle 499
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=16, PBC=1) on particle 500
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=15, PBC=1) on particle 501
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=14, PBC=1) on particle 502
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=13, PBC=1) on particle 503
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=12, PBC=1) on particle 504
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=11, PBC=1) on particle 505
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=113, PBC=1) on particle 506
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=112, PBC=1) on particle 507
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=111, PBC=1) on particle 508
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=110, PBC=1) on particle 509
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=109, PBC=1) on particle 510
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=108, PBC=1) on particle 511
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=107, PBC=1) on particle 512
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=106, PBC=1) on particle 513
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=105, PBC=1) on particle 514
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=104, PBC=1) on particle 515
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=103, PBC=1) on particle 516
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=102, PBC=1) on particle 517
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=101, PBC=1) on particle 518
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=100, PBC=1) on particle 519
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=155, PBC=1) on particle 520
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=154, PBC=1) on particle 521
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=153, PBC=1) on particle 522
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=152, PBC=1) on particle 523
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=151, PBC=1) on particle 524
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=150, PBC=1) on particle 525
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=149, PBC=1) on particle 526
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=370, PBC=1) on particle 532
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=369, PBC=1) on particle 533
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=368, PBC=1) on particle 534
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=367, PBC=1) on particle 535
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=366, PBC=1) on particle 536
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=365, PBC=1) on particle 537
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=364, PBC=1) on particle 538
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=38, PBC=1) on particle 539
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=37, PBC=1) on particle 540
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=36, PBC=1) on particle 541
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=35, PBC=1) on particle 542
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=34, PBC=1) on particle 543
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=33, PBC=1) on particle 544
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=32, PBC=1) on particle 545
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=92, PBC=1) on particle 546
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=91, PBC=1) on particle 547
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=90, PBC=1) on particle 548
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=89, PBC=1) on particle 549
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=88, PBC=1) on particle 550
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=87, PBC=1) on particle 551
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=86, PBC=1) on particle 552
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=85, PBC=1) on particle 553
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=84, PBC=1) on particle 554
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=83, PBC=1) on particle 555
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=82, PBC=1) on particle 556
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=81, PBC=1) on particle 557
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=80, PBC=1) on particle 558
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=79, PBC=1) on particle 559
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=176, PBC=1) on particle 560
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=175, PBC=1) on particle 561
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=174, PBC=1) on particle 562
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=173, PBC=1) on particle 563
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=172, PBC=1) on particle 564
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=171, PBC=1) on particle 565
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=170, PBC=1) on particle 566
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=187, PBC=1) on particle 567
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=186, PBC=1) on particle 568
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=185, PBC=1) on particle 569
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=184, PBC=1) on particle 570
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=183, PBC=1) on particle 571
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=182, PBC=1) on particle 572
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=181, PBC=1) on particle 573
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=180, PBC=1) on particle 574
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=179, PBC=1) on particle 575
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=178, PBC=1) on particle 576
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=177, PBC=1) on particle 577
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=78, PBC=1) on particle 578
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=77, PBC=1) on particle 579
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=76, PBC=1) on particle 580
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=75, PBC=1) on particle 581
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=74, PBC=1) on particle 582
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=73, PBC=1) on particle 583
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=72, PBC=1) on particle 584
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=71, PBC=1) on particle 585
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=70, PBC=1) on particle 586
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=69, PBC=1) on particle 587
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=68, PBC=1) on particle 588
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=363, PBC=1) on particle 589
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=362, PBC=1) on particle 590
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=361, PBC=1) on particle 591
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=360, PBC=1) on particle 592
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=359, PBC=1) on particle 593
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=358, PBC=1) on particle 594
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=357, PBC=1) on particle 595
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=326, PBC=1) on particle 596
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=325, PBC=1) on particle 597
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=324, PBC=1) on particle 598
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=323, PBC=1) on particle 599
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=322, PBC=1) on particle 600
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=321, PBC=1) on particle 601
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=320, PBC=1) on particle 602
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=319, PBC=1) on particle 603
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=318, PBC=1) on particle 604
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=317, PBC=1) on particle 605
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=316, PBC=1) on particle 606
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=315, PBC=1) on particle 607
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=314, PBC=1) on particle 608
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=313, PBC=1) on particle 609
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=230, PBC=1) on particle 610
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=229, PBC=1) on particle 611
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=228, PBC=1) on particle 612
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=227, PBC=1) on particle 613
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=226, PBC=1) on particle 614
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=225, PBC=1) on particle 615
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=224, PBC=1) on particle 616
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=169, PBC=1) on particle 617
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=168, PBC=1) on particle 618
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=167, PBC=1) on particle 619
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=166, PBC=1) on particle 620
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=165, PBC=1) on particle 621
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=164, PBC=1) on particle 622
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=163, PBC=1) on particle 623
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=262, PBC=1) on particle 629
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=261, PBC=1) on particle 630
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=260, PBC=1) on particle 631
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=259, PBC=1) on particle 632
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=258, PBC=1) on particle 633
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=257, PBC=1) on particle 634
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=256, PBC=1) on particle 635
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=255, PBC=1) on particle 636
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=254, PBC=1) on particle 637
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=253, PBC=1) on particle 638
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=252, PBC=1) on particle 639
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=291, PBC=1) on particle 640
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=290, PBC=1) on particle 641
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=289, PBC=1) on particle 642
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=288, PBC=1) on particle 643
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=287, PBC=1) on particle 644
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=286, PBC=1) on particle 645
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=285, PBC=1) on particle 646
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=284, PBC=1) on particle 647
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=283, PBC=1) on particle 648
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=282, PBC=1) on particle 649
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=281, PBC=1) on particle 650
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=384, PBC=1) on particle 651
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=383, PBC=1) on particle 652
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=382, PBC=1) on particle 653
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=381, PBC=1) on particle 654
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=380, PBC=1) on particle 655
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=379, PBC=1) on particle 656
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=378, PBC=1) on particle 657
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=305, PBC=1) on particle 658
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=304, PBC=1) on particle 659
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=303, PBC=1) on particle 660
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=302, PBC=1) on particle 661
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=301, PBC=1) on particle 662
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=300, PBC=1) on particle 663
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=299, PBC=1) on particle 664
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=298, PBC=1) on particle 665
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=297, PBC=1) on particle 666
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=296, PBC=1) on particle 667
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=295, PBC=1) on particle 668
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=294, PBC=1) on particle 669
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=293, PBC=1) on particle 670
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=292, PBC=1) on particle 671
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=251, PBC=1) on particle 672
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=250, PBC=1) on particle 673
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=249, PBC=1) on particle 674
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=248, PBC=1) on particle 675
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=247, PBC=1) on particle 676
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=246, PBC=1) on particle 677
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=245, PBC=1) on particle 678
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=437, PBC=1) on particle 679
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=436, PBC=1) on particle 680
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=435, PBC=1) on particle 681
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=434, PBC=1) on particle 682
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=433, PBC=1) on particle 683
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=432, PBC=1) on particle 684
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=431, PBC=1) on particle 685
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=430, PBC=1) on particle 686
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=429, PBC=1) on particle 687
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=428, PBC=1) on particle 688
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=427, PBC=1) on particle 689
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=426, PBC=1) on particle 690
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=238, PBC=1) on particle 691
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=236, PBC=1) on particle 692
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=235, PBC=1) on particle 693
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=234, PBC=1) on particle 694
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=233, PBC=1) on particle 695
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=232, PBC=1) on particle 696
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=231, PBC=1) on particle 697
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=312, PBC=1) on particle 698
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=311, PBC=1) on particle 699
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=310, PBC=1) on particle 700
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=309, PBC=1) on particle 701
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=308, PBC=1) on particle 702
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=307, PBC=1) on particle 703
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=306, PBC=1) on particle 704
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=377, PBC=1) on particle 705
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=376, PBC=1) on particle 706
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=375, PBC=1) on particle 707
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=374, PBC=1) on particle 708
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=373, PBC=1) on particle 709
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=372, PBC=1) on particle 710
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=371, PBC=1) on particle 711
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=339, PBC=1) on particle 712
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=337, PBC=1) on particle 713
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=336, PBC=1) on particle 714
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=335, PBC=1) on particle 715
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=334, PBC=1) on particle 716
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=333, PBC=1) on particle 717
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=332, PBC=1) on particle 718
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=331, PBC=1) on particle 719
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=330, PBC=1) on particle 720
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=329, PBC=1) on particle 721
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=328, PBC=1) on particle 722
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=327, PBC=1) on particle 723
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=356, PBC=1) on particle 724
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=355, PBC=1) on particle 725
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=354, PBC=1) on particle 726
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=353, PBC=1) on particle 727
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=352, PBC=1) on particle 728
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=351, PBC=1) on particle 729
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=350, PBC=1) on particle 730
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=349, PBC=1) on particle 731
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=348, PBC=1) on particle 732
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=347, PBC=1) on particle 733
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=346, PBC=1) on particle 734
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=345, PBC=1) on particle 735
+INFO:    Using temporary file
+INFO: Adding a MutualTrap (stiff=0.09, rate=0, r0=1.2, ref_particle=345, PBC=1) on particle 736
+INFO:    Force file parsed
+INFO: (Cells.cpp) N_cells_side: 12, 12, 12; rcut=4.06377, IS_MC: 0
+INFO: N: 742, N molecules: 22
+INFO: Using randomly distributed velocities
+INFO: Initial kinetic energy: 221.130145
+INFO: Choosing device automatically
+INFO: Computer has 1 devices
+INFO:  - Trying device 0
+INFO:  -- device 0 has properties 6.1
+INFO:  -- using device 0
+INFO:  --- Running on device 0
+INFO: Using a maximum backbone force of 1000  (the corresponding mbf_xmax is 0.249002) and a far value of 0.04
+INFO: threads_per_block was not specified or set to 0. The default value (64) will be used
+INFO: CUDA max_neigh: 741, max_N_per_cell: 742, N_cells: 1728 (per side: 12 12 12)
+INFO: CUDA Cells mem: 4.90 MBs, lists mem: 2.10 MBs
+INFO: Allocated CUDA memory: 16.23 MBs
+INFO: RELEASE: v3.0.0-alpha
+INFO: GIT COMMIT: c83eda2
+INFO: COMPILED ON: 19/01/21
+INFO: diffusion fixed.. -1047.82 -1047.82
+INFO: diffusion fixed.. -1036.63 -1036.63
+INFO: diffusion fixed.. -1044.76 -1044.76
+INFO: diffusion fixed.. -1038.11 -1038.11
+INFO: diffusion fixed.. -1049.19 -1049.18
+INFO: diffusion fixed.. -1047.83 -1047.83
+INFO: diffusion fixed.. -1048.53 -1048.53
+INFO: diffusion fixed.. -1048.56 -1048.56
+INFO: diffusion fixed.. -1049.89 -1049.89
+INFO: diffusion fixed.. -1049.25 -1049.25
+INFO: diffusion fixed.. -1050.6 -1050.6
+INFO: diffusion fixed.. -1046.2 -1046.2
+INFO: diffusion fixed.. -1048.44 -1048.44
+INFO: diffusion fixed.. -1046.99 -1046.99
+INFO: diffusion fixed.. -1049.77 -1049.77
+INFO: diffusion fixed.. -1048.66 -1048.66
+INFO: diffusion fixed.. -1048.54 -1048.54
+INFO: diffusion fixed.. -1051.84 -1051.84
+INFO: diffusion fixed.. -1049.53 -1049.53
+INFO: diffusion fixed.. -1045.82 -1045.82
+INFO: diffusion fixed.. -1048.28 -1048.28
+INFO: diffusion fixed.. -1040.31 -1040.31
+INFO: diffusion fixed.. -1042.73 -1042.73
+INFO: diffusion fixed.. -1036.62 -1036.62
+INFO: diffusion fixed.. -1034.08 -1034.08
+INFO: diffusion fixed.. -1044.17 -1044.17
+INFO: diffusion fixed.. -1061.13 -1061.13
+INFO: diffusion fixed.. -1059.72 -1059.72
+INFO: diffusion fixed.. -1045.99 -1045.99
+INFO: diffusion fixed.. -1045.07 -1045.07
+INFO: diffusion fixed.. -1047.09 -1047.09
+INFO: diffusion fixed.. -1038.16 -1038.16
+INFO: diffusion fixed.. -1040.94 -1040.94
+INFO: diffusion fixed.. -1039.55 -1039.55
+INFO: diffusion fixed.. -1033.24 -1033.24
+INFO: diffusion fixed.. -1048.95 -1048.95
+INFO: diffusion fixed.. -1056.53 -1056.53
+INFO: diffusion fixed.. -1046.44 -1046.44
+INFO: diffusion fixed.. -1045.66 -1045.66
+INFO: diffusion fixed.. -1052.99 -1052.99
+INFO: diffusion fixed.. -1050.66 -1050.66
+INFO: diffusion fixed.. -1057.41 -1057.41
+INFO: diffusion fixed.. -1049.41 -1049.41
+INFO: diffusion fixed.. -1052.23 -1052.23
+INFO: diffusion fixed.. -1039.02 -1039.02
+INFO: diffusion fixed.. -1051.09 -1051.09
+INFO: diffusion fixed.. -1047.8 -1047.8
+INFO: diffusion fixed.. -1048.72 -1048.72
+INFO: diffusion fixed.. -1033.06 -1033.06
+INFO: diffusion fixed.. -1042.77 -1042.77
+INFO: diffusion fixed.. -1046.23 -1046.23
+INFO: diffusion fixed.. -1034.58 -1034.58
+INFO: diffusion fixed.. -1038.86 -1038.86
+INFO: diffusion fixed.. -1046.18 -1046.18
+INFO: diffusion fixed.. -1058.58 -1058.58
+INFO: diffusion fixed.. -1044.33 -1044.33
+INFO: diffusion fixed.. -1046.37 -1046.37
+INFO: diffusion fixed.. -1046.69 -1046.69
+INFO: diffusion fixed.. -1043.34 -1043.34
+INFO: diffusion fixed.. -1045.23 -1045.23
+INFO: diffusion fixed.. -1051.86 -1051.86
+INFO: diffusion fixed.. -1049.53 -1049.53
+INFO: diffusion fixed.. -1044.2 -1044.19
+INFO: diffusion fixed.. -1049.4 -1049.4
+INFO: diffusion fixed.. -1047.89 -1047.89
+INFO: diffusion fixed.. -1046.57 -1046.57
+INFO: diffusion fixed.. -1048.69 -1048.69
+INFO: diffusion fixed.. -1052.26 -1052.26
+INFO: diffusion fixed.. -1035.7 -1035.7
+INFO: diffusion fixed.. -1052.33 -1052.33
+INFO: diffusion fixed.. -1049.65 -1049.65
+INFO: diffusion fixed.. -1040.79 -1040.79
+INFO: diffusion fixed.. -1049.08 -1049.08
+INFO: diffusion fixed.. -1051.54 -1051.54
+INFO: diffusion fixed.. -1052.44 -1052.44
+INFO: diffusion fixed.. -1056.41 -1056.41
+INFO: diffusion fixed.. -1041.11 -1041.11
+INFO: diffusion fixed.. -1052.27 -1052.27
+INFO: diffusion fixed.. -1038.59 -1038.59
+INFO: diffusion fixed.. -1052.27 -1052.27
+INFO: diffusion fixed.. -1048.48 -1048.48
+INFO: diffusion fixed.. -1049.87 -1049.87
+INFO: diffusion fixed.. -1048.25 -1048.25
+INFO: diffusion fixed.. -1036.87 -1036.87
+INFO: diffusion fixed.. -1045.58 -1045.58
+INFO: diffusion fixed.. -1040.32 -1040.31
+INFO: diffusion fixed.. -1046.29 -1046.29
+INFO: diffusion fixed.. -1042.8 -1042.8
+INFO: diffusion fixed.. -1043.59 -1043.59
+INFO: diffusion fixed.. -1045.54 -1045.54
+INFO: diffusion fixed.. -1042.46 -1042.46
+INFO: diffusion fixed.. -1049.17 -1049.17
+INFO: diffusion fixed.. -1052.15 -1052.15
+INFO: diffusion fixed.. -1054.1 -1054.1
+INFO: diffusion fixed.. -1039.1 -1039.09
+INFO: diffusion fixed.. -1054.37 -1054.37
+INFO: diffusion fixed.. -1056.43 -1056.43
+INFO: diffusion fixed.. -1050 -1050
+INFO: diffusion fixed.. -1041.33 -1041.33
+INFO: diffusion fixed.. -1056.13 -1056.13
+
+INFO: Total Running Time: 644.529 s, per step: 0.0644529 ms
+INFO: Timings, in seconds, by Timer (total, own, spent in children)
+> SimBackend                        644.529 (100.0%)       31.868 (  4.9%)      612.661 ( 95.1%)
+***> Hilbert sorting                  5.138 (  0.8%)        5.138 (  0.8%)        0.000 (  0.0%)
+***> Lists                           45.933 (  7.1%)       45.933 (  7.1%)        0.000 (  0.0%)
+***> Thermostat                      11.749 (  1.8%)       11.749 (  1.8%)        0.000 (  0.0%)
+***> Forces                         445.812 ( 69.2%)      445.812 ( 69.2%)        0.000 (  0.0%)
+***> First Step                     104.030 ( 16.1%)      104.030 ( 16.1%)        0.000 (  0.0%)
+
+INFO: END OF THE SIMULATION, everything went OK!
+INFO: Lists updated 14393 times (every ~694.782186 steps)
+INFO: Aggregated I/O statistics (set debug=1 for file-wise information)
+	 39.005 MB written to files
+	 60.607 KB written to stdout/stderr
+	For a total of   0.0606 MB/s
+
