@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CODEDIR=/opt/gromacs-2022
+CODEDIR=/opt/gromacs
 GMX_BIN=$CODEDIR/bin/gmx
 
 echo "Simulating a New Work"
