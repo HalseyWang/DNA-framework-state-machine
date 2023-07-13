@@ -1,0 +1,43 @@
+interaction_type = DNA2
+salt_concentration = 1
+sim_type = MD
+backend = CUDA
+backend_precision = mixed
+max_backbone_force = 1000
+#debug = 1
+CUDA_list = verlet
+CUDA_sort_every = 0
+
+use_edge = 1
+edge_n_forces = 1
+max_density_multiplier = 10
+verlet_skin = 0.5
+cells_auto_optimisation = 1
+
+steps = 1e7
+T = 300k
+dt = 0.0001
+thermostat = john
+diff_coeff = 2.5
+newtonian_steps = 103
+refresh_vel = 1
+external_forces = 0
+external_forces_file = basepair_trap
+
+# topology and initial configuration files
+conf_file = r1_conf.dat
+topology = 6HB.top
+
+### Seq. Dependence ##########
+use_average_seq = 0
+seq_dep_file = oxDNA1_sequence_dependent_parameters_CCm.txt
+
+# some output options
+trajectory_file = r2_trajectory.dat
+energy_file = r2_energy.dat
+lastconf_file = r2_conf_trap.dat
+restart_step_counter = 1
+print_energy_every = 1e3
+print_conf_interval = 1e5
+time_scale = linear
+log_file = relax_log_MD.dat
