@@ -1,0 +1,50 @@
+title		= NPT equilibration 
+define		= -DPOSRES	; 
+; Run parameters
+integrator	= md		; 
+nsteps		= 500000		; 
+dt		= 0.002		; 
+; Output control
+nstxout		= 500		; 
+nstvout		= 500		; 
+nstcalcenergy	= 50		; 
+nstenergy	= 50		; 
+nstlog		= 50		; 
+;energygrps	= DNA Water_and_ions
+nstxout-compressed	= 500	; 
+compressed-x-grps	= System
+; Bond parameters
+continuation	= yes		; 
+constraint_algorithm = lincs	; 
+constraints	= h-bonds	; 
+lincs_iter	= 1		; 
+lincs_order	= 4		; 
+; Neighborsearching
+cutoff-scheme	= Verlet
+ns_type	= grid		; 
+nstlist	= 10		; 
+rlist		= 2		; 
+rcoulomb	= 2		; 
+rvdw		= 2		; 
+; Electrostatics
+coulombtype	= PME		; 
+pme_order	= 4		; 
+fourierspacing	= 0.16		; 
+; Temperature coupling is on
+tcoupl		= V-rescale	; 
+tc-grps	= DNA Water_and_ions  ; 
+tau_t		= 0.1 0.1  ; 
+ref_t		= 300 300	; 
+; Pressure coupling is on
+pcoupl		= Berendsen	; 
+pcoupltype	= isotropic	; 
+tau_p		= 2.0		; 
+ref_p		= 1.0		; 
+compressibility = 4.5e-5	; 
+refcoord_scaling = com
+; Periodic boundary conditions
+pbc		= xyz		; 
+; Dispersion correction
+DispCorr	= EnerPres	; 
+; Velocity generation
+gen_vel		= no		; 
