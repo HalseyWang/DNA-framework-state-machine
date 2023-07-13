@@ -10,6 +10,7 @@ It contains example oxDNA files and Gromacs files for simulating DNA framework s
 # System requirements and Dependencies
 
 The shell scripts in this repository need to be run in a Linux environment, and please ensure the following dependencies are installed：
+- [caDNAno](https://github.com/douglaslab/cadnano2)
 - [oxDNA](https://github.com/lorenzo-rovigatti/oxDNA)
 - [Gromacs](https://github.com/gromacs/gromacs)
 - Python 3.8 or above.
