@@ -16,7 +16,7 @@ The shell scripts in this repository need to be run in a Linux environment, and 
 
 # Installation
 
- Please use CUDA support to compile oxDNA and Gromacs to the path `/opt`
+ Please use CUDA support to compile oxDNA and Gromacs to the path `/opt`.
  
  All the files need to download and the shell scripts can be run directly in the Linux environment.
 
