@@ -1,6 +1,11 @@
-# DNA-Framework-State-Machine
+# Description
 
-This folder contains example oxDNA files and Gromacs files for simulating DNA framework state machine exported from a DNA design tool and running a basic equlibrium MD simulation.
+This repository is used to support the following work:
+
+### A temporally resolved DNA framework state machine in living cells
+Yan Zhao, Shuting Cao, Yue Wang, Fan Li, Linjie Guo, Fei Wang, Jie Chao, Xiaolei Zuo, Ying Zhu, Lihua Wang, Jiang Li* and Chunhai Fan*
+
+It contains example oxDNA files and Gromacs files for simulating DNA framework state machine exported from a DNA design tool and running a basic equlibrium MD simulation.
 
 # System requirements and Dependencies
 
