@@ -1,0 +1,43 @@
+backend = CPU
+backend_precision = double
+
+max_backbone_force = 100
+#debug = 1
+#seed = 42
+
+# model and salt concentration (in molar)
+interaction_type = DNA2
+salt_concentration = 1
+
+ensemble = NVT
+
+# the next 4 options can be changed to improve performance
+delta_translation = 0.22
+delta_rotation = 0.22
+verlet_skin = 0.5
+cells_auto_optimisation = 1
+
+sim_type = MC
+steps = 1e5
+
+T = 300k
+
+refresh_vel = 1
+
+# topology and initial configuration files
+conf_file = 34.dat
+topology = 34.top
+
+# set this to true to use a force-file (as given by some of the tacoxDNA tools)
+external_forces = 1
+external_forces_file = basepair_trap.txt
+# some output options
+trajectory_file = r1_trajectory.dat
+energy_file = r1_energy.dat
+lastconf_file= r1_conf.dat
+restart_step_counter = 1
+no_stdout_energy = 0
+print_energy_every = 1000
+print_conf_interval = 1000
+time_scale = linear
+log_file = relax_log_MC.dat
