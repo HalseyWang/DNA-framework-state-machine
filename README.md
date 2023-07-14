@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8144751.svg)](https://doi.org/10.5281/zenodo.8144751)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8144750.svg)](https://doi.org/10.5281/zenodo.8144750)
 
 
 # DNA framework state machine (DFSM)
