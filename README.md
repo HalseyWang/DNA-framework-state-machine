@@ -1,4 +1,4 @@
-# Description
+# DNA framework state machine (DFSM)
 
 This repository is used to support the following work:
 
