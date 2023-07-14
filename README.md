@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8144750.svg)](https://doi.org/10.5281/zenodo.8144750)
 
 
+
 # DNA framework state machine (DFSM)
 
 This repository is used to support the following work:
@@ -10,9 +11,12 @@ Yan Zhao, Shuting Cao, Yue Wang, Fan Li, Linjie Guo, Fei Wang, Jie Chao, Xiaolei
 
 It contains code for generating sequences of DFSM and example oxDNA files and Gromacs files for designing DFSM from a DNA design tool and running equilibrium MD simulation. All the scripts and classes in this package can be used for other DNA framework projects. Please cite DNA framework state machine if you use this package for your work.
 
-# System requirements and Dependencies
+# System requirements
 
-The shell scripts in this repository need to be run in a Linux environment, and please ensure the following dependencies are installed：
+The shell scripts in this repository need to be run in a Linux environment.
+
+# Dependencies
+
 - [caDNAno](https://github.com/douglaslab/cadnano2)
 - [oxDNA](https://github.com/lorenzo-rovigatti/oxDNA)
 - [Gromacs](https://github.com/gromacs/gromacs)
