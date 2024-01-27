@@ -7,7 +7,7 @@
 This repository is used to support the following work:
 
 ### A temporally resolved DNA framework state machine in living cells
-Yan Zhao, Shuting Cao, Yue Wang, Fan Li, Linjie Guo, Fei Wang, Jie Chao, Xiaolei Zuo, Ying Zhu, Lihua Wang, Jiang Li* and Chunhai Fan*
+Yan Zhao, Shuting Cao, Yue Wang, Fan Li, Lixuan Lin, Linjie Guo, Fei Wang, Jie Chao, Xiaolei Zuo, Ying Zhu, Lihua Wang, Jiang Li* and Chunhai Fan*
 
 It contains code for generating sequences of DFSM and example oxDNA files and Gromacs files for simulating DFSM from a DNA design tool and running equilibrium MD simulation. All the scripts and classes in this package can be used for other DNA framework projects. Please cite DNA framework state machine if you use this package for your work.
 
@@ -28,7 +28,7 @@ The shell scripts in this repository need to be run in a Linux environment.
  
  All the files need to download and the shell scripts can be run directly in the Linux environment.
 
-# Instructions.
+# Instructions
 
 This folder contains examples of DNA-framework-state-machine for performing coarse-grained equilibrium simulations and all-atom molecular dynamics equilibrium simulations. 
 
